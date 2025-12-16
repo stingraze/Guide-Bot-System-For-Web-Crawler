@@ -11,4 +11,5 @@ Created using ChatGPT Deep Research and Perplexity Deep Research on 12/16/2025 b
 (C)Tsubasa Kato - Inspire Search Corp. & Curioforce Corp.
 
 Inspire Search Corp: https://www.inspiresearch.io/en
+
 Curioforce Corp.: https://www.curioforce.com
