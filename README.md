@@ -6,7 +6,7 @@ I started off with my idea I got while riding on a bus and looking for signs to 
 This gave me an inspiration for having web crawler to have a guide bot that will use MCP (in two definitions, Master Control Progam and Model Context Protocol (more common nowadays)).
 Please feel free to expand on this idea and make it a standard for the future of web crawlers and its coordination through MCP by it being used by AI Agents and web crawlers.
 
-Created by ChatGPT Deep Research and Perplexity Deep Research on 12/16/2025.
+Created using ChatGPT Deep Research and Perplexity Deep Research on 12/16/2025 based on those ideas.
 
 (C)Tsubasa Kato - Inspire Search Corp. & Curioforce Corp.
 
